@@ -1,36 +1,12 @@
 /*
- *                   ___====-_  _-====___
- *             _--^^^#####//      \\#####^^^--_
- *          _-^##########// (    ) \\##########^-_
- *         -############//  |\^^/|  \\############-
- *       _/############//   (@::@)   \############\_
- *      /#############((     \\//     ))#############\
- *     -###############\\    (oo)    //###############-
- *    -#################\\  / VV \  //#################-
- *   -###################\\/      \//###################-
- *  _#/|##########/\######(   /\   )######/\##########|\#_
- *  |/ |#/\#/\#/\/  \#/\##\  |  |  /##/\#/  \/\#/\#/\#| \|
- *  `  |/  V  V  `   V  \#\| |  | |/#/  V   '  V  V  \|  '
- *     `   `  `      `   / | |  | | \   '      '  '   '
- *                      (  | |  | |  )
- *                     __\ | |  | | /__
- *                    (vvv(VVV)(VVV)vvv)
- *
- *      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- *
- *                神兽保佑            永无BUG
- *
  * @Descripttion:
  * @version:
- * @Date: 2021-04-20 11:06:21
- * @LastEditors: huzhushan@126.com
- * @LastEditTime: 2022-09-27 18:51:22
- * @Author: huzhushan@126.com
- * @HomePage: https://huzhushan.gitee.io/vue3-element-admin
- * @Github: https://github.com/huzhushan/vue3-element-admin
- * @Donate: https://huzhushan.gitee.io/vue3-element-admin/donate/
+ * @Author: Lanjx <lanheader@163.com>
+ * @HomePage: https://www.cnblogs.com/lanheader/
+ * @Date: 2023-05-12 21:24:02
+ * @LastEditors: Lanjx
+ * @LastEditTime: 2023-05-22 14:03:14
  */
-
 export default [
   {
     url: '/api/menus',

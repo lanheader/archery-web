@@ -1,56 +1,12 @@
 <!--
- *                                |~~~~~~~|
- *                                |       |
- *                                |       |
- *                                |       |
- *                                |       |
- *                                |       |
- *     |~.\\\_\~~~~~~~~~~~~~~xx~~~         ~~~~~~~~~~~~~~~~~~~~~/_//;~|
- *     |  \  o \_         ,XXXXX),                         _..-~ o /  |
- *     |    ~~\  ~-.     XXXXX`)))),                 _.--~~   .-~~~   |
- *      ~~~~~~~`\   ~\~~~XXX' _/ ';))     |~~~~~~..-~     _.-~ ~~~~~~~
- *               `\   ~~--`_\~\, ;;;\)__.---.~~~      _.-~
- *                 ~-.       `:;;/;; \          _..-~~
- *                    ~-._      `''        /-~-~
- *                        `\              /  /
- *                          |         ,   | |
- *                           |  '        /  |
- *                            \/;          |
- *                             ;;          |
- *                             `;   .       |
- *                             |~~~-----.....|
- *                            | \             \
- *                           | /\~~--...__    |
- *                           (|  `\       __-\|
- *                           ||    \_   /~    |
- *                           |)     \~-'      |
- *                            |      | \      '
- *                            |      |  \    :
- *                             \     |  |    |
- *                              |    )  (    )
- *                               \  /;  /\  |
- *                               |    |/   |
- *                               |    |   |
- *                                \  .'  ||
- *                                |  |  | |
- *                                (  | |  |
- *                                |   \ \ |
- *                                || o `.)|
- *                                |`\\) |
- *                                |       |
- *                                |       |
- * 
  * @Descripttion: 
  * @version: 
- * @Date: 2021-04-23 14:15:50
- * @LastEditors: huzhushan@126.com
- * @LastEditTime: 2022-09-27 17:55:16
- * @Author: huzhushan@126.com
- * @HomePage: https://huzhushan.gitee.io/vue3-element-admin
- * @Github: https://github.com/huzhushan/vue3-element-admin
- * @Donate: https://huzhushan.gitee.io/vue3-element-admin/donate/
- -->
-
+ * @Author: Lanjx <lanheader@163.com>
+ * @HomePage: https://www.cnblogs.com/lanheader/
+ * @Date: 2023-05-12 21:24:02
+ * @LastEditors: Lanjx
+ * @LastEditTime: 2023-05-22 13:59:03
+-->
 <template>
   <el-dropdown-item @click="dialogVisible = true">
     {{ $t('topbar.lock-title') }}

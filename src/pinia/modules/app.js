@@ -1,15 +1,12 @@
 /*
- * @Descripttion:
- * @version:
- * @Date: 2021-04-20 11:06:21
- * @LastEditors: lanjiaxuan lanjiaxuan@e6yun.com
- * @LastEditTime: 2023-05-12 23:30:34
- * @Author: huzhushan@126.com
- * @HomePage: https://huzhushan.gitee.io/vue3-element-admin
- * @Github: https://github.com/huzhushan/vue3-element-admin
- * @Donate: https://huzhushan.gitee.io/vue3-element-admin/donate/
+ * @Descripttion: 
+ * @version: 
+ * @Author: Lanjx <lanheader@163.com>
+ * @HomePage: https://www.cnblogs.com/lanheader/
+ * @Date: 2023-05-12 21:24:02
+ * @LastEditors: Lanjx
+ * @LastEditTime: 2023-05-22 13:55:46
  */
-
 import { defineStore } from 'pinia'
 import { getItem, setItem, removeItem } from '@/utils/storage' //getItem和setItem是封装的操作localStorage的方法
 import { AesEncryption } from '@/utils/encrypt'

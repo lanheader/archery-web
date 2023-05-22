@@ -1,10 +1,11 @@
 <!--
- * @Author: lanjiaxuan lanjiaxuan@e6yun.com
+ * @Descripttion: 
+ * @version: 
+ * @Author: Lanjx <lanheader@163.com>
+ * @HomePage: https://www.cnblogs.com/lanheader/
  * @Date: 2023-05-12 21:24:02
- * @LastEditors: lanjiaxuan lanjiaxuan@e6yun.com
- * @LastEditTime: 2023-05-16 09:01:33
- * @FilePath: /archery-web/src/App.vue
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @LastEditors: Lanjx
+ * @LastEditTime: 2023-05-22 14:04:31
 -->
 <template>
   <el-config-provider :locale="locales[lang]" :size="size">

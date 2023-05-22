@@ -1,13 +1,11 @@
 /*
- * @Descripttion:
- * @version:
- * @Date: 2021-04-20 11:06:21
- * @LastEditors: huzhushan@126.com
- * @LastEditTime: 2022-09-27 14:57:06
- * @Author: huzhushan@126.com
- * @HomePage: https://huzhushan.gitee.io/vue3-element-admin
- * @Github: https://github.com/huzhushan/vue3-element-admin
- * @Donate: https://huzhushan.gitee.io/vue3-element-admin/donate/
+ * @Descripttion: 
+ * @version: 
+ * @Author: Lanjx <lanheader@163.com>
+ * @HomePage: https://www.cnblogs.com/lanheader/
+ * @Date: 2023-05-12 21:24:02
+ * @LastEditors: Lanjx
+ * @LastEditTime: 2023-05-22 13:55:52
  */
 import { defineStore } from 'pinia'
 import { GetUserinfo } from '@/api/login'

@@ -1,14 +1,3 @@
-/*
- * @Descripttion:
- * @version:
- * @Date: 2021-04-21 09:18:32
- * @LastEditors: lanjiaxuan lanjiaxuan@e6yun.com
- * @LastEditTime: 2023-05-16 18:07:05
- * @Author: huzhushan@126.com
- * @HomePage: https://huzhushan.gitee.io/vue3-element-admin
- * @Github: https://github.com/huzhushan/vue3-element-admin
- * @Donate: https://huzhushan.gitee.io/vue3-element-admin/donate/
- */
 const Layout = () => import('@/layout/index.vue')
 const List = () => import('@/views/test/index.vue')
 const Add = () => import('@/views/test/Add.vue')

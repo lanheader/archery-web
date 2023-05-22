@@ -1,39 +1,3 @@
-/*
- *
- * 　　┏┓　　　┏┓+ +
- * 　┏┛┻━━━┛┻┓ + +
- * 　┃　　　　　　　┃
- * 　┃　　　━　　　┃ ++ + + +
- *  ████━████ ┃+
- * 　┃　　　　　　　┃ +
- * 　┃　　　┻　　　┃
- * 　┃　　　　　　　┃ + +
- * 　┗━┓　　　┏━┛
- * 　　　┃　　　┃
- * 　　　┃　　　┃ + + + +
- * 　　　┃　　　┃
- * 　　　┃　　　┃ +  神兽保佑
- * 　　　┃　　　┃    代码无bug
- * 　　　┃　　　┃　　+
- * 　　　┃　 　　┗━━━┓ + +
- * 　　　┃ 　　　　　　　┣┓
- * 　　　┃ 　　　　　　　┏┛
- * 　　　┗┓┓┏━┳┓┏┛ + + + +
- * 　　　　┃┫┫　┃┫┫
- * 　　　　┗┻┛　┗┻┛+ + + +
- *
- *
- * @Descripttion:
- * @version:
- * @Date: 2021-04-23 12:35:44
- * @LastEditors: huzhushan@126.com
- * @LastEditTime: 2021-04-23 13:59:04
- * @Author: huzhushan@126.com
- * @HomePage: https://huzhushan.gitee.io/vue3-element-admin
- * @Github: https://github.com/huzhushan/vue3-element-admin
- * @Donate: https://huzhushan.gitee.io/vue3-element-admin/donate/
- */
-
 import { encrypt, decrypt } from 'crypto-js/aes'
 import { parse } from 'crypto-js/enc-utf8'
 import pkcs7 from 'crypto-js/pad-pkcs7'
